@@ -1,12 +1,12 @@
 body {
-    background-color: aliceblue;
+    background-color: antiquewhite;
     border: black dotted;
     margin: 0;
     padding: 0;
 }
 
 h1 {
-    background-color: rgb(165, 42, 165);
+    background-color: rgb(51, 233, 178);
     color: black;
     text-align: center;
     font-size: 50px;
@@ -33,7 +33,7 @@ h2 {
     justify-items: center;
 }
 h3 {
-    background-color: rgb(165, 42, 165);
+    background-color: rgb(51, 233, 178);
     color: black;
     text-align: left;
     font-size: 25px;
@@ -42,6 +42,16 @@ h3 {
     font-size: 20px;
     justify-items: center;
 }
+h4 {
+    background-color: rgb(165, 42, 165);
+    color: black;
+    text-align: center;
+}
+
+.remot {
+    justify-items: center;
+}
+
 
 
 
