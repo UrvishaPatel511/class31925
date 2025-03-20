@@ -1,39 +1,48 @@
 body {
     background-color: aliceblue;
-}
-
-body > p {
-    font-size: 20px;
+    border: black dotted;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
-    background-color: brown;
+    background-color: rgb(165, 42, 165);
     color: black;
     text-align: center;
     font-size: 50px;
     margin: 0;
 }
+
+img {
+    height: 550px;
+    width: 550px;
+}
+.note {
+    font-size: 20px;
+    justify-items: center;
+}
 h2 {
-    background-color: blueviolet;
+    background-color: rgb(165, 42, 165);
     color: black;
     text-align: center;
     font-size: 40px;
+
 }
-.two > div {
-    font-size: 30px;
+.section {
+    font-size: 20px;
+    justify-items: center;
 }
 h3 {
-    background-color: blueviolet;
+    background-color: rgb(165, 42, 165);
     color: black;
     text-align: left;
     font-size: 25px;
 }
-.img  > container {
-height: 500px;
-width: 500px;
-justify-content: center;
-
+.click {
+    font-size: 20px;
+    justify-items: center;
 }
+
 
 
 
