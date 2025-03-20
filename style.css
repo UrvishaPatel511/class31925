@@ -1,9 +1,39 @@
+body {
+    background-color: aliceblue;
+}
+
+body > p {
+    font-size: 20px;
+}
+
 h1 {
     background-color: brown;
     color: black;
     text-align: center;
     font-size: 50px;
     margin: 0;
-    padding-right: 0;
-    padding-left: 0;
 }
+h2 {
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+.two > div {
+    font-size: 30px;
+}
+h3 {
+    background-color: blueviolet;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+}
+.img  > container {
+height: 500px;
+width: 500px;
+justify-content: center;
+
+}
+
+
+
