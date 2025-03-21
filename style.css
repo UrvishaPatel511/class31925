@@ -37,7 +37,7 @@ h3 {
     background-color: rgb(51, 233, 178);
     color: black;
     text-align: left;
-    font-size: 25px;
+    font-size: 30px;
 }
 .click {
     font-size: 20px;
@@ -47,11 +47,18 @@ h4 {
     background-color: rgb(165, 42, 165);
     color: black;
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .remot {
     justify-items: center;
+}
+
+#myRecipe {
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    font-size: 20px;
 }
 
 
